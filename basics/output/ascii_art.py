@@ -1,5 +1,6 @@
 # Display a box
 print("##########")
-print("#        #")
-print("#        #")
+print("#  0   0 #")
+print("#    I   #")
+print("#  ----- #")
 print("##########")
