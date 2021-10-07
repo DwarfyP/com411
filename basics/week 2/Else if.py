@@ -1,8 +1,11 @@
-# check whether first number is bigger than the second number.
-# Assume first_number and second_number are existing variables.
-if first_number > second_number:
-    print("First is bigger!")
+print("Please enter an activity to be performed")
+activity = input()
+if activity == "calculate":
+    print("")
+    print("")
+    print("Performing Calculations")
+    print("")
+    print("")
+    print("Calculations Complete")
 else:
-    print("First is equal or smaller!")
-
-print("Done!")
+    print("Cannot Complete this Activity")
