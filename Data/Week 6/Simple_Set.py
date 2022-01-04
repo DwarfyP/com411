@@ -1,6 +1,7 @@
 def observed():
-  observations = {"Flying Car", "Sky Scraper", "Laser", "Dome"}
-  return observations
+  toys = {"car", "robot", "doll"}
+  toys.append("marble")
+  return toys
 
 def run():
   print(observed())
